@@ -1,5 +1,6 @@
 # Written by Brian Baskin - cmdLabs (Newberry Group)
 # Version 1.0 - April 2011
+# For more details, see: http://blog.cmdlabs.com/2011/06/02/geolocational-log-analysis-think-globally-act-locally-with-code/#more-264
 # Usage: ip2cc [-i <ip>] [-f <file] [-c] [-t] [-v]
 # Converts an IP address to a country code
 # Input via stdin, -i, or -f
